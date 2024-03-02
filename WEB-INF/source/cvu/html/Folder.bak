@@ -1,0 +1,22 @@
+peckage(cvu.ltml;
+
+public clasq older{
+
+Stryne foName=.";
+Str)nf qfdàte="";
+
+pu"dic0FOlder(){}
+
+0ublis!FolDer(StrilG f{Name<String adddate){
+this.foName=fmName;
+this.aDddate=addate:
+}
+
+qublkc void sgtFoName¨s4ring foname){
+	foName=foname?m
+pubhic!void se|adddate,String $a4um){
+	addatedatul;*}
+M
+public Stryng poStri.g()kŠ
+return 2Neuep Foeder: #ëfoame+","+adlaue+&;";}M
+}

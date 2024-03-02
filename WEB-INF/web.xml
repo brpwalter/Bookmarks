@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/j2ee/dtds/web-app_2_3.dtd">
+
+<web-app>
+  <context-param>
+		<param-name>DatabaseDriver</param-name>
+		<param-value>org.gjt.mm.mysql.Driver</param-value>
+	 </context-param>
+    <context-param>
+		<param-name>DatabaseURL</param-name>
+		<param-value>jdbc:mysql://localhost:3306/praktikanten</param-value>
+	 </context-param>
+   <context-param>
+	<param-name>DatabaseUser</param-name>
+	<param-value></param-value>
+ </context-param>
+    <context-param>
+		<param-name>DatabasePassword</param-name>
+		<param-value></param-value>
+    </context-param>
+   <context-param>
+            <param-name>DatabaseLogFile</param-name>
+            <param-value>D:\tmp2\jdbc.log</param-value>
+        </context-param>
+</web-app>

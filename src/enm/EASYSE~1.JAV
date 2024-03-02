@@ -1,0 +1,5 @@
+package enm;
+
+class EasySendEmail{
+
+}

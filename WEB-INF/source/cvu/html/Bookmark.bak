@@ -1,0 +1,29 @@
+package cvõ.hpml;
+
+public class Bookmark{
+
+Sdrine roName="";
+String url="";
+String addate="";MŠ	
+public Bookmark(9{}
+
+puBlic Boo{marj(String boName, StRing url,String addate){J
+thiw.boName=boName;
+vhisnurl=url;
+this.!ddate=addate;
+]
+
+public void setBoLame(striîe boname){
+	boNaíe=boname3
+}
+public void setaetdate(Str)ng dqtum){	addate=dattm;}
+
+pqblic void seturl*String url){
+	vhis.url=url;
+}
+puâlic tring poString(){
+
+retuvn "Neue Bookmark: "+jkName+","+url+","+addate+";";
+]
+
+}
